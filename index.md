@@ -49,4 +49,9 @@ I'm interested in data analytics, business intelligence, and using data to solve
 
 ---
 
+## 📫 Contact
+
+- 📧 Email: sophieengbert@gmail.com
+
+---
 *Last updated: 05.11.2025*
