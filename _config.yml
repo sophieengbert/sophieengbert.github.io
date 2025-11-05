@@ -1,11 +1,10 @@
 # Site Settings
-title: Your Name
-description: My Portfolio Website
+title: Sophie Engbert
+description: My Portfolio
 url: "https://yourusername.github.io"
 
 # Theme
-theme: jekyll-theme-cayman
-
+theme: jekyll-theme-leap-day
 # Build settings
 markdown: kramdown
 
