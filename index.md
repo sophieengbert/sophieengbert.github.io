@@ -1,7 +1,6 @@
-
 ---
-layout: default
-title: Home
+<!-- layout: default
+title: Home -->
 ---
 
 # 👩‍💻 Sophie Engbert – Business Informatics Student
@@ -15,19 +14,18 @@ I am passionate about the intersection of technology, data, and business strateg
 
 This portfolio showcases my projects and assignments, including data analysis, PowerBI dashboards, and other work.
 
-Learn more [about me](about) <!-- or view my [projects](projects). -->
+Learn more [about me](about) or view my [projects](projects).
 
 ## 🧠 Skills
 
 - **Programming:** SQL, Java, C
 
-- **Tools:** Excel, Power BI
+- **Tools:** Excel, Power BI, Tableau
 
 - **Languages:** German, English
 
 ---
 
-<!--
 ## Featured Projects
 
 Check out my [Projects](projects) page to see my work, including:
@@ -36,15 +34,14 @@ Check out my [Projects](projects) page to see my work, including:
 - Data analysis projects
 - Visualizations and insights
 
--->
-
 I'm interested in data analytics, business intelligence, and using data to solve real-world problems.
 
 ---
 
 ### Quick Links
 
-- [About Me](about) <!-- - [My Projects](projects) -->
+- [About Me](about) 
+- [My Projects](projects)
 - [GitHub Profile](https://github.com/sophieengbert)
 
 ---
@@ -54,4 +51,4 @@ I'm interested in data analytics, business intelligence, and using data to solve
 - 📧 Email: sophieengbert@gmail.com
 
 ---
-*Last updated: 05.11.2025*
+*Last updated: 16.12.2025*
