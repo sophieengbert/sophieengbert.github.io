@@ -1,54 +1,61 @@
 ---
 <!-- layout: default
-title: Home -->
+title: Startseite -->
 ---
 
-# 👩‍💻 Sophie Engbert – Business Informatics Student
+<p style="text-align: right;">
+  <a href="{{ '/' | relative_url }}" lang="en"
+     style="display: inline-block; padding: 6px 14px; border: 1px solid #0366d6; border-radius: 6px; text-decoration: none; font-weight: 600;">
+    🇬🇧 English
+  </a>
+</p>
+
+# 👩‍💻 Sophie Engbert – Studentin der Wirtschaftsinformatik
 
   
 
-Welcome to my portfolio! 
+Willkommen in meinem Portfolio!
 
-I'm **Sophie**, a Business Informatics student usually at the FHDW (Fachhochschule der Wirtschaft) in Paderborn, Germany but right now I am enjoying a term abroad at the DBS (Dublin Business School) in Dublin, Ireland. I also work at Bertelsmann where I have already finished my training as a qualified IT specialist.
-I am passionate about the intersection of technology, data, and business strategy.
+Ich bin **Sophie** und studiere Wirtschaftsinformatik, normalerweise an der FHDW (Fachhochschule der Wirtschaft) in Paderborn. Zurzeit verbringe ich aber ein Auslandssemester an der DBS (Dublin Business School) in Dublin, Irland. Außerdem arbeite ich bei Bertelsmann, wo ich bereits meine Ausbildung zur Fachinformatikerin abgeschlossen habe.
+Mich begeistert die Schnittstelle zwischen Technologie, Daten und Unternehmensstrategie.
 
-This portfolio showcases my projects and assignments, including data analysis, PowerBI dashboards, and other work.
+In diesem Portfolio zeige ich meine Projekte und Arbeiten, darunter Datenanalysen, Power-BI-Dashboards und weitere Projekte.
 
-Learn more [about me](about) or view my [projects](projects).
+Erfahre mehr [über mich]({{ '/about' | relative_url }}) oder sieh dir meine [Projekte]({{ '/projects' | relative_url }}) an.
 
-## 🧠 Skills
+## 🧠 Kenntnisse
 
-- **Programming:** SQL, Java, C
+- **Programmierung:** Java, C, SQL, Python
 
 - **Tools:** Excel, Power BI, Tableau
 
-- **Languages:** German, English
+- **Sprachen:** Deutsch, Englisch
 
 ---
 
-## Featured Projects
+## Ausgewählte Projekte
 
-Check out my [Projects](projects) page to see my work, including:
+Auf meiner [Projektseite]({{ '/projects' | relative_url }}) findest du meine Arbeiten, unter anderem:
 
-- PowerBI dashboards and reports
-- Data analysis projects
-- Visualizations and insights
+- Power-BI-Dashboards und Berichte
+- Datenanalyse-Projekte
+- Visualisierungen und Erkenntnisse
 
-I'm interested in data analytics, business intelligence, and using data to solve real-world problems.
-
----
-
-### Quick Links
-
-- [About Me](about) 
-- [My Projects](projects)
-- [GitHub Profile](https://github.com/sophieengbert)
+Mich interessieren besonders Data Analytics, Business Intelligence und der Einsatz von Daten, um Probleme aus der Praxis zu lösen.
 
 ---
 
-## 📫 Contact
+### Schnellzugriff
 
-- 📧 Email: sophieengbert@gmail.com
+- [Über mich]({{ '/about' | relative_url }})
+- [Meine Projekte]({{ '/projects' | relative_url }})
+- [GitHub-Profil](https://github.com/sophieengbert)
 
 ---
-*Last updated: 16.12.2025*
+
+## 📫 Kontakt
+
+- 📧 E-Mail: sophieengbert@gmail.com
+
+---
+*Zuletzt aktualisiert: 14.10.2026*
